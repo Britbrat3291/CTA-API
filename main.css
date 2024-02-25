@@ -1,12 +1,17 @@
-body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: gold;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  color: gold;
+}
+
+h1 {
+  color: pink;
+}
+</style>
+</head>
+<body>
+
+<h1>Vernon Hills METRA1</h1>
+<p>This is the Metra Station in Vernon Hills. I would take the Chicago Union Station Metra to make it to Vernon Hills Metra Station.</p>
